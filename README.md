@@ -9,7 +9,7 @@ command- docker build -t myimage .
 command- docker images
 <br>
  REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
-myimage      latest    09d4de12353d   22 seconds ago   944MB
+<br>myimage      latest    09d4de12353d   22 seconds ago   944MB
 
 <H4>TO RUN THE IMAGE </H4>
 docker run -d -p 8081:8081 myimage
