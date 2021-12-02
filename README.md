@@ -1,7 +1,7 @@
 
 <H1>This the demo and testing application to configure all the DevOps Tools and Resources......</H1>
 Which constitue of the Docker file, with node js application
--------------------------------------------------------------------------------------------------------------------------
+<br>-------------------------------------------------------------------------------------------------------------------------
 <H2>Prerequisite-
 <br> 1. Docker Installed
 <br> 2. Docker up and running
