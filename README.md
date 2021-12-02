@@ -7,6 +7,7 @@ command- docker build -t myimage .
 
 <H4>TO CHECK THE IMAGE WHICH IS BEEN BUILD</H4>
 command- docker images
+<br>
  REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
 myimage      latest    09d4de12353d   22 seconds ago   944MB
 
